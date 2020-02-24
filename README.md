@@ -1,4 +1,4 @@
-# Loan-Approval-Classification-w-machine-bias
+# Loan Approval Classification with Machine-bias
 
 
 A research-ready data set of U.S. home mortgage loan applications, based on data from the federally mandated Home Mortgage Disclosure Act. In 2014, there were about 11.7 million loan records. These records include applications for home purchase, for home improvement, and for refinancing.
